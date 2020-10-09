@@ -21,7 +21,7 @@
 
 ▸ `Static`**recognizeFile**(`filename`: string, `config`: [TesseractOptions](../interfaces/_tesseractshell_.tesseractoptions.md)): Promise\<unknown>
 
-*Defined in TesseractShell.ts:105*
+*Defined in [TesseractShell.ts:105](https://github.com/Madrok/node-shell-support/blob/e645dcf/src/TesseractShell.ts#L105)*
 
 Launch Tesseract to read an image file.
 
@@ -42,7 +42,7 @@ ___
 
 ▸ `Static`**recognizePipe**(`data`: Buffer, `config`: [TesseractOptions](../interfaces/_tesseractshell_.tesseractoptions.md)): Promise\<string>
 
-*Defined in TesseractShell.ts:54*
+*Defined in [TesseractShell.ts:54](https://github.com/Madrok/node-shell-support/blob/e645dcf/src/TesseractShell.ts#L54)*
 
 Launches tesseract and pipe a javascript buffer containing image data to it.
 

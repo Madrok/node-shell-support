@@ -31,4 +31,4 @@ package.
 
 • `Const` **log**: debug = console.debug
 
-*Defined in TesseractShell.ts:32*
+*Defined in [TesseractShell.ts:32](https://github.com/Madrok/node-shell-support/blob/e645dcf/src/TesseractShell.ts#L32)*

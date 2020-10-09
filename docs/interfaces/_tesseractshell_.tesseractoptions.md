@@ -22,7 +22,7 @@
 
 • `Optional` **binary**: string
 
-*Defined in TesseractShell.ts:38*
+*Defined in [TesseractShell.ts:38](https://github.com/Madrok/node-shell-support/blob/e645dcf/src/TesseractShell.ts#L38)*
 
 the path to tesseract binary, if needed
 
@@ -32,7 +32,7 @@ ___
 
 • `Optional` **debug**: boolean
 
-*Defined in TesseractShell.ts:36*
+*Defined in [TesseractShell.ts:36](https://github.com/Madrok/node-shell-support/blob/e645dcf/src/TesseractShell.ts#L36)*
 
 Will log the command line to console.debug
 
@@ -42,7 +42,7 @@ ___
 
 • `Optional` **presets**: Array\<string>
 
-*Defined in TesseractShell.ts:43*
+*Defined in [TesseractShell.ts:43](https://github.com/Madrok/node-shell-support/blob/e645dcf/src/TesseractShell.ts#L43)*
 
 Additional configfiles to add to the command line.
 
