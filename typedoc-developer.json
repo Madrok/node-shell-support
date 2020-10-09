@@ -1,0 +1,14 @@
+{
+	"inputFiles": [
+		"./src"
+	],
+	"out": "docs",
+	"name": "Node Shell Support Library",
+	"includeDeclarations": true,
+	"excludeExternals": false,
+	"excludePrivate": false,
+	"excludeProtected": false,
+	"stripInternal": true,
+	"ignoreCompilerErrors": true,
+	"includeVersion": true
+}
