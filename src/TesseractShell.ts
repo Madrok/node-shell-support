@@ -47,7 +47,7 @@ export class TesseractShell {
 
 	/**
 	 * Launches tesseract and pipe a javascript buffer containing image data to it.
-	 * @see https://dzone.com/articles/understanding-execfile-spawn-exec-and-fork-in-node
+	 * 
 	 * @param data Buffer of image data
 	 * @param config TesseractOptions object
 	 */
@@ -98,7 +98,7 @@ export class TesseractShell {
 
 	/**
 	 * Launch Tesseract to read an image file.
-	 * @see https://dzone.com/articles/understanding-execfile-spawn-exec-and-fork-in-node
+	 * 
 	 * @param filename The image file to read
 	 * @param config TesseractOptions object
 	 */
