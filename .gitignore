@@ -3,4 +3,7 @@ node_modules/
 .vscode/
 .data/
 .env
+yarn-error.log
+.DS_Store
+
 
